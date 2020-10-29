@@ -1,0 +1,18 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 1.2fr 2.3fr 0.2fr 1fr 0.3fr;
+  grid-template-rows: 0.3fr 2.5fr 0.2fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    ". . . . ."
+    ". Content . Sidebar ."
+    ". . . . .";
+}
+
+.Content {
+  grid-area: Content;
+  background-color: red;
+  border-radius: 5px;
+ }
+
+.Sidebar { grid-area: Sidebar; }

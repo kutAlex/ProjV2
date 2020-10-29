@@ -1,0 +1,2 @@
+[1028/131446.927:ERROR:directory_reader_win.cc(43)] FindFirstFile: Het systeem kan het opgegeven pad niet vinden. (0x3)
+[1028/161122.588:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Alex\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\3d4bd1e2-14da-4a1d-a7d0-091f27522069: Het systeem kan het opgegeven pad niet vinden. (0x3)
