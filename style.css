@@ -1,4 +1,4 @@
-@font-face {
+font-face {
   font-family: 'Helvetica';
   font-style: normal;
   font-weight: normal;
@@ -420,5 +420,11 @@ ol > a:hover{
   border-radius: 60px;
 }
 .UB1 > h3{
+  color: #f47c21;
+}
+.UB2 > h3{
+  color: #f47c21;
+}
+.UB3 > h3{
   color: #f47c21;
 }
